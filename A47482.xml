@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Impudence, lying and forgery, detected and chastiz'd in a rejoinder to a reply written by that infamous town-poet, Tom. Brown, and father'd by Matt. Smith ... / by Ric. Kingston.</title>
+            <author>Kingston, Richard, b. 1635?</author>
+         </titleStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47482</idno><idno type="EEBO-CITATION">12571347</idno>
+  <idno type="VID">63464</idno>
+  <idno type="EEBO-PROQUEST">2248560674</idno>
+  
+            <idno type="STC">Wing K612</idno>
+            <idno type="STC">ESTC R22490</idno>
+            <idno type="OCLC">12571347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 322:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Impudence, lying and forgery, detected and chastiz'd in a rejoinder to a reply written by that infamous town-poet, Tom. Brown, and father'd by Matt. Smith ... / by Ric. Kingston.</title>
+                  <author>Kingston, Richard, b. 1635?</author>
+               </titleStmt>
+               <extent>[3], 45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to Matthew Smith's "A reply to an unjust and scandalous libel intituled, A modest answer to Captain Smith's immodest Memoirs," which was written by Kingston in the controversy which began with Smith's Memoirs of secret service. Kingston held Thomas Brown at least in part responsible for Smith's writings, but he had little, if anything, to do with the controversy. Cf. DNB.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Smith, Matthew, fl. 1696. --  Memoirs of secret service.</term>
+               <term type="personal_name">Kingston, Richard, b. 1635? --  Modest answer to Captain Smith's immodest Memoirs.</term>
+               <term type="personal_name">Smith, Matthew, fl. 1696. --  Reply to an unjust and scandalous libel intituled, A modest answer to Captain Smith's immodest memoirs of secret service.</term>
+               <term type="personal_name">Brown, Thomas, 1663-1704.</term>
+               <term type="geographic_name">Great Britain --  History --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63464:1"/>
+            <pb facs="tcp:63464:1"/>
+            <p>
+               <hi>Impudence, Lying and Forgery,</hi> Detected and Chastiz'd. IN A REJOINDER TO A REPLY, Written by that Infamous Town-Poet <hi>Tom. Brown.</hi>
+            </p>
+            <p>And Father'd by <hi>MATT. SMITH,</hi> A Squire of <hi>Alsatia,</hi> Now Resident in the Gate-House, <hi>Westminster.</hi>
+            </p>
+            <p>By <hi>RIC. KINGSTON.</hi>
+            </p>
+            <q>
+               <l>Effundit mala Lingua virus Atrum,</l>
+               <l>Non est Ictu serienda levi.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by the Booksellers of <hi>London</hi> and <hi>Westminster.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:63464:2"/>
+            <pb n="1" facs="tcp:63464:2"/>
+            <head>Impudence, Lying and Forgery Detected and Chastiz'd, <hi>&amp;c.</hi>
+            </head>
+            <p>THere is no greater sign in the World of a <hi>Bad</hi> and <hi>Bafled</hi> Cause, than its being supported by <hi>Ill-words,</hi> instead of <hi>Arguments; Railing,</hi> for want of <hi>Reason,</hi> and <hi>False</hi> Suggestions instead of Answers, to plain and positive Proofs. In the <hi>Modest An<g ref="char:EOLhyphen"/>swer</hi> to <hi>Brown</hi>'s and <hi>Smith</hi>'s <hi>Immodest Me<g ref="char:EOLhyphen"/>moirs</hi> and <hi>Remarks,</hi> I charge them with matters of Fact, and quote Credi<g ref="char:EOLhyphen"/>ble Witnesses to prove every Allegation; and they being utterly unable ro refute any one particular through the whole Discourse, are pleased to drop the Con<g ref="char:EOLhyphen"/>troversy, and fall upon me, in such a <hi>Rude</hi> and <hi>Barbarous</hi> Dialect, as none but <hi>Things</hi> of their own Characters could be Guilty of: And therefore if the Provocations they have given me, shall sometimes make me so far forget my self, as to requite them in kind, I hope the Reader will for<g ref="char:EOLhyphen"/>give
+<pb n="2" facs="tcp:63464:3"/> give me, considering I am engaging a<g ref="char:EOLhyphen"/>gainst a Couple of <hi>Infamous Scoundrels,</hi> who in hopes that the <hi>Devil</hi> will always sit at their <hi>Doors,</hi> defy Law and Justice, and are Sworn Enemies to Truth, as well as to <hi>Good Manners.</hi> But thanks be to Hea<g ref="char:EOLhyphen"/>ven, our Age is more Wise, Genteel and and Modest, than to take the <hi>Drivel</hi> of <hi>Cankard</hi> Mouths, and the Nasty <hi>Froth</hi> of <hi>Ulcerated Lungs,</hi> for a Reply to <hi>Serious Matter;</hi> but on the contrary, will de<g ref="char:EOLhyphen"/>spise every Author, that treats his Anta<g ref="char:EOLhyphen"/>gonist, and Manages his cause after such a <hi>Beastly</hi> manner as these <hi>Poultrons</hi> have done, who if they had been bound Seven Years to the Devil to learn the Arts of <hi>Lying</hi> and <hi>Slandering,</hi> they could not have been more their Crafts Masters than they are; and for which Abuses, if I don't take my Remedy at Law against both the <hi>Authors, Printer,</hi> and <hi>Publishers,</hi> let all Mankind conclude me Guilty, and till then they must not expect, I will so far Credit their <hi>Scurrilons Reply,</hi> as to take any Notice of their Egregious and <hi>Suppo<g ref="char:EOLhyphen"/>sitious Calumnies,</hi> which are assisted by no other Proof, Colour or pretence, than the Impudent Assertions of a Couple of <hi>Exploded Villains.</hi>
+            </p>
+            <p>Now before I rejoin to this <hi>Insignifi<g ref="char:EOLhyphen"/>cant, Incoherent,</hi> and <hi>Scandalous Reply,</hi>
+               <pb n="3" facs="tcp:63464:3"/> it will be necessary to acquaint the Rea<g ref="char:EOLhyphen"/>der why they Dropt the Argument to take Revenge upon me, and who the Persons are, that industriously but In<g ref="char:EOLhyphen"/>effectually strive to Blast my Reputa<g ref="char:EOLhyphen"/>tion; for which no other reason can be assigned, but that <hi>Brown</hi> and <hi>Smith</hi> are Tools for a Party, that are the Common Scandalizers of the Govern<g ref="char:EOLhyphen"/>ment, and Reproachers of every Ad<g ref="char:EOLhyphen"/>ministration: Against whose Calum<g ref="char:EOLhyphen"/>nies my Pen having been thought too severe: That sort of Malcontented Hu<g ref="char:EOLhyphen"/>morists, have by all Clandestine Arts im<g ref="char:EOLhyphen"/>aginable, endeavoured to weaken my Credit in that kind, and having this op<g ref="char:EOLhyphen"/>portunity, lived in hope to gain their point, and that their <hi>Libels</hi> against the Government might pass with greater Currency, when they had no body to op<g ref="char:EOLhyphen"/>pose them.</p>
+            <p>Another Reason of their <hi>Malice</hi> is, that I have stirr'd a <hi>Wasps Nest, some Men were more Afraid than Hurt,</hi> and fearing their ill designs would be discovered by my dipping in this Controversy, and know<g ref="char:EOLhyphen"/>ing that <hi>Brown</hi> and <hi>Smith</hi> had neither Re<g ref="char:EOLhyphen"/>putation to lose, nor Estates, nor any thing to <hi>Pay Damages for their Abusive Language,</hi> they thought them proper En<g ref="char:EOLhyphen"/>gines to execute their Pay-masters Ma<g ref="char:EOLhyphen"/>lice,
+<pb n="4" facs="tcp:63464:4"/> and therefore have maintained them in Meat, Drink and Clothes: First, to abuse an <hi>Illustrious Peer,</hi> and then me for Detecting the Villanous Contrivance; who am able to Prove, tho' the Varlets <hi>Smith</hi> and <hi>Brown,</hi> and <hi>Brown</hi> and <hi>Smith,</hi> bear the blame, yet some considerable Persons (by their Titles) were at the <hi>Middle</hi> and both <hi>Ends</hi> of this Conspi<g ref="char:EOLhyphen"/>racy.</p>
+            <p>Now, tho' I cannot imagine what Spi<g ref="char:EOLhyphen"/>rit of Impudence, or Revelation from Hell, first engaged <hi>Smith</hi> and <hi>Brown</hi> into so Base and Vile an Undertaking, as the Printing their <hi>Memoirs</hi> and <hi>Remarks</hi> was; yet I cannot but think their <hi>Deserting that point</hi> is one of the Wisest things they ever did, for when they consider, that if their Slan<g ref="char:EOLhyphen"/>derous Tongues should still continue too long for their Mouths, in Abusing their Superiors, they might at last draw dan<g ref="char:EOLhyphen"/>gerous <hi>Knots</hi> about their <hi>Necks,</hi> 'tis no Wonder they begin to Bite them in as much as they can, without offending their <hi>Lords</hi> and <hi>Masters.</hi>
+            </p>
+            <p>The Copy of <hi>Browns</hi> and <hi>Smiths Libel,</hi> was Offer'd from Bookseller to Book<g ref="char:EOLhyphen"/>seller in <hi>Fleetstreet</hi> and other Places, but none would undertake to Print so Scan<g ref="char:EOLhyphen"/>dalous a thing upon any Terms what<g ref="char:EOLhyphen"/>soever, till they met with the common
+<pb n="5" facs="tcp:63464:4"/> Scandal Printer, <hi>Pillory Darien John Darby,</hi> who is the Third of his Family that has stood in the <hi>Pillory,</hi> for Printing <hi>Libels</hi> against the Government, and is so Bigotted a <hi>Phanatick Republican,</hi> that nothing can cure his <hi>Spleen</hi> or his Wifes <hi>Vapours</hi> against <hi>Monarchy</hi> but the Quintenssence of a <hi>Rope</hi> and <hi>Butter,</hi> which they have both stunck for want of these Ten Years.</p>
+            <p>The Title of the <hi>Libel</hi> should have been <hi>Mercurius Bifrons,</hi> one of whose Faces wants <hi>Wit,</hi> and the other <hi>Honesty.</hi> It was written by that Infamous Town Poet <hi>Tom Brown,</hi> the only Wretch alive that ne'er pretended to be Honest, and 'tis owned by <hi>Matt. Smith,</hi> generally called <hi>Frigster Smith:</hi> A Thick Scull'd, Empty Headed, Dull Insipid Coxcomb, who for want of Solid Greatness, swells the Title Page with <hi>Empty Ceremory,</hi> call<g ref="char:EOLhyphen"/>ing himself Esquire, tho' he was never own'd for such but by the <hi>Bullies</hi> of <hi>Al<g ref="char:EOLhyphen"/>satia</hi> where he lived till the Dissolution of that Society, and has all the Qualificati<g ref="char:EOLhyphen"/>ons, that may entitle him a Dignitary of that <hi>Ignoble Order. Smith</hi> is the <hi>Cats</hi> Foot in the <hi>Monkey</hi>'s Paw: <hi>Brown</hi> writes Libels and silly <hi>Smith</hi> own's them. <hi>Brown</hi> is the <hi>Monster</hi> to be seen above Stairs, and <hi>Smith</hi> is the <hi>Zany</hi> that stands at the Door with
+<pb n="6" facs="tcp:63464:5"/> a Trumpet at his Mouth, to invite Pas<g ref="char:EOLhyphen"/>sengers, to see <hi>a Calf with two Heads,</hi> or <hi>Brown</hi>'s drunken Noddle, graffed upon <hi>Smith</hi>'s Trembling Shoulders, which must needs be a <hi>dismal Figure</hi> and richly worth Sixpence a piece the shewing; or to make it more Comical, <hi>Smith</hi> is the <hi>Puppet</hi> in view, and <hi>Brown</hi> the <hi>Jugler</hi> be<g ref="char:EOLhyphen"/>hind the <hi>Curtain,</hi> that makes the <hi>Puppet</hi> speak, and Wiredraws him into all his Antick and Ridiculous Motions, and ac<g ref="char:EOLhyphen"/>cordingly I shall treat them as <hi>Fool</hi> and <hi>Knave</hi> in conjunction. Pray step in and see the beginning.</p>
+            <p>
+               <hi>Brown</hi> innitiates <hi>Smiths</hi> Scandalous Sto<g ref="char:EOLhyphen"/>ry, by lamenting the loss of his Liberty; and yet <hi>Smith</hi> has often told his Friend Mr. <hi>Read</hi> since he has been in Custody, <hi>that his continuing in Prison was for his Good.</hi> In another place he makes <hi>Smith</hi> say, that he suffers for the breach of an Order he was ignorant of; when he knows the Bookseller and Printer, see<g ref="char:EOLhyphen"/>ing in his first Copy <hi>a Letter to the House of Lords,</hi> they shewed him the danger of Printing it, and refused to proceed fur<g ref="char:EOLhyphen"/>ther, burnt all the Sheets that were Print<g ref="char:EOLhyphen"/>ed off, and so lost above fifteen Pounds by <hi>Brown</hi>'s recommending <hi>Smith</hi> to their acquaintance. Now if <hi>Smith</hi>'s remaining in Custody <hi>be for his Good,</hi> his Complaint
+<pb n="7" facs="tcp:63464:5"/> is giving himself the Lye in that particu<g ref="char:EOLhyphen"/>lar, as well as pleading Ignorance to a Danger he had notice of. Next <hi>Brown</hi> makes <hi>Smith</hi> say he is destitute of Friends, and yet I can, and when-ever <hi>Smith</hi> de<g ref="char:EOLhyphen"/>sires it will shew him under his Friend Mr. <hi>Charles Read</hi>'s hand, credibly attest<g ref="char:EOLhyphen"/>ed, the Names of no less than eight <hi>Noble Peers</hi> that <hi>Smith</hi> told him were his particular Friends: And his Famous So<g ref="char:EOLhyphen"/>licitrixes Mrs. <hi>Mortimon</hi> and Mrs. <hi>Scot,</hi> whom but to name is to scandalize any Cause they have a Finger in, have also said <hi>Smith</hi> has many considerable Friends also in the Honourable House of Commons, that watch an opportunity to do him service, with other Fine things that I for<g ref="char:EOLhyphen"/>bear to relate, because those Noted Fe<g ref="char:EOLhyphen"/>male are the Authors of them. And then with what Face can <hi>Brown</hi> make <hi>Smith</hi> say he is destitute of Friends, when him<g ref="char:EOLhyphen"/>self and Friends at other times boast of the Numbers of them.</p>
+            <p>Next, <hi>Brown</hi> makes <hi>Smith</hi> insinuate (for they dare aver nothing directly) <hi>that I have vouched several Persons as Witnesses to Facts of my own inventing,</hi> p. 4. and in pag. 8. says, <hi>he hears that</hi> A: R. <hi>and</hi> B. B. <hi>protest against what I have Quo<g ref="char:EOLhyphen"/>ted them for against Mr.</hi> Brown, <hi>because 'tis utterly false.</hi> These two Passages I shew<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:63464:6"/> the Gentlemen intended under the two initial Letters of their Names, and they were pleased not only to deny what is there insinuated upon pretended <hi>Hearsay;</hi> but did me justice in the following Cer<g ref="char:EOLhyphen"/>tificate.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>We whose Names are under-written, do utterly deny that we ever said that Mr. <hi>Kingston</hi> had quoted our Names to any thing against Mr. <hi>Brown</hi> that was false; but on the contrary do affirm, that in every Page where Mr. <hi>Kingston</hi> in his Book called <hi>A Modest Answer to Captain</hi> Smith<hi>'s Immo<g ref="char:EOLhyphen"/>dest Memoirs,</hi> has used our Names, he has done it to nothing but what is the Truth, and they that say the contrary are Lyars, and Slanderers, witness our Hands this Nineteenth of <hi>February 1699.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Abel Roper.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ben. Beardwell.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Scandalous Suggestion being thus disproved, I proceed to the next Particu<g ref="char:EOLhyphen"/>lar, wherein <hi>Brown</hi> and <hi>Smith</hi> labour hard to persuade their Reader, that <hi>Smith</hi> and not <hi>Brown</hi> wrote the Book called <hi>Memoirs of Secret Service,</hi> and the other Pamphlet called <hi>Remarks,</hi> &amp;c. and truly it concerns them both to struggle for this point, for the whole matter turns upon this <hi>Di<g ref="char:EOLhyphen"/>lemma.</hi>
+               <pb n="9" facs="tcp:63464:6"/> If <hi>Brown</hi> wrote the Preface, the Observations, the Minutes, the pretend<g ref="char:EOLhyphen"/>ed private Conferences, and Mended, Alter'd, and added whole Sentences to <hi>Smith's Letters,</hi> then all <hi>Smith</hi>'s Pretences are but one Intire Abominable <hi>Contrivance,</hi> and both Principal and Accessary deserve an Exemplary Punishment.</p>
+            <p>Now the Course <hi>Brown</hi> takes in this <hi>Reply</hi> to persuade his Reader that those Books before-mentioned were of <hi>Smith</hi>'s writing, is enough to convince those that know him, that all the rest he says is of the same Complexion, since all <hi>Smith</hi>'s Acquaintance laugh him to scorn for pre<g ref="char:EOLhyphen"/>tending to it. Away trifling <hi>Brown,</hi> don't impose upon the World! call thy Brother <hi>Smith</hi> by any other of thy own Names but an <hi>Author,</hi> and we shall readily be<g ref="char:EOLhyphen"/>lieve thee, thou knowest wretched Fel<g ref="char:EOLhyphen"/>low, that he has not the Wit or Learn<g ref="char:EOLhyphen"/>ing of a <hi>Dormouse:</hi> He talk of Government and Politicks? Bid the <hi>Truant</hi> go to School again, learn to manage a <hi>Fescue</hi> discreetly, play at <hi>Push-Pin</hi> or <hi>Cockall</hi> wisely, con his Eight Parts of Speech di<g ref="char:EOLhyphen"/>ligently, and never hereafter pretend to any thing above the capacities of Boys, and Girls Slobbering Bibs, and Sucking Bottles, lest thou in time say of him as thou didst of <hi>Mounsieur le Cross,</hi> that he
+<pb n="10" facs="tcp:63464:7"/> is like thy self, and <hi>fit for nothing but Hanging.</hi>
+            </p>
+            <p>But <hi>Smith</hi> forsooth out of his Speaking Trumpets Mouth, makes it a doubt whe<g ref="char:EOLhyphen"/>ther <hi>Brown</hi> ever said he writ the Books in Question or not; and because 'tis nei<g ref="char:EOLhyphen"/>ther fit for them nor me to determine that Controvesie, let us hear what indif<g ref="char:EOLhyphen"/>ferent and disinteressed Persons have to say in that matter. You have heard al<g ref="char:EOLhyphen"/>ready what the Former Witnesses have said to the whole, I will next produce you a Certificate from another Gentle<g ref="char:EOLhyphen"/>man.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>Let this certifie, that I being in company about <hi>March</hi> or <hi>April</hi> last with Mr. <hi>King<g ref="char:EOLhyphen"/>ston,</hi> Mr. <hi>Roper,</hi> Mr. <hi>Beardwell,</hi> and Mr. <hi>Brown,</hi> at Mr. <hi>Webs</hi> in St. <hi>James</hi> Park; I heard Mr. <hi>Brown</hi> say, that he wrote the greatest part ef the Book Entituled <hi>Me<g ref="char:EOLhyphen"/>moirs of Secret Services,</hi> and mended most part of Captain <hi>Smith</hi>'s Letters, to make them speak Sense, and more to the purpose. And at the same time Mr. <hi>Brown</hi> curst Cap<g ref="char:EOLhyphen"/>tain <hi>Smith</hi> for drawing him into a Snare, and imploying his Pen to so base a purpose, for which he said he humbly beg'd the <hi>D's</hi> pardon, witness my Hand,</p>
+                        <closer>
+                           <signed>M. Stringer.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <pb n="11" facs="tcp:63464:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>We whose Names are under-written, do hereby certifie all whom it may concern, that we heard Mr. <hi>Kingston,</hi> charge. Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Brown,</hi> with making Alterations in, and Additions to Captain <hi>Smith</hi>'s Letters, which are printed in a Book entitled <hi>Me<g ref="char:EOLhyphen"/>moirs of Secret Service,</hi> which Mr. <hi>Brown</hi> would have shuffled off at first; but when he heard Mr. <hi>Kingston</hi> say that he would shew him the Copy in his own Hand Writing, Mr. <hi>Brown</hi> answered, What would you have we do, <hi>Smith</hi> cannot write Sense, and I ha<g ref="char:EOLhyphen"/>ving wrote the Preface, made Observations, and lick'd over his Minutes, I was forced to stick in here and there a word, and now and then Usher in a short Sentence to make his Letters speak Sence, and seem of a piece with the rest; for which Captain <hi>Smith</hi> pro<g ref="char:EOLhyphen"/>mised to bear me harmless. These words were spoken in our presence, and hearing, and as soon as Mr. <hi>Brown</hi> was gone were put into Writing. To the truth of which we have put our Hands,</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>John Halsy.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Willowby.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now <hi>Brown</hi> knowing that these unde<g ref="char:EOLhyphen"/>niable Proofs were ready to be produced against him, and that he had a Bill of Fifty Pounds for writing that Book, he to save <hi>Smith</hi>'s Credit, and keep up his In<g ref="char:EOLhyphen"/>terest with the Party, he exposes himself,
+<pb n="12" facs="tcp:63464:8"/> and gives <hi>Smith</hi> Authority <hi>to call him a Lyar,</hi> if he said what is proved against him. What Shifting, Doubling, and Pre<g ref="char:EOLhyphen"/>varicating is here, between a Couple of Scoundrels to uphold a wicked Cause: But seven Lines before, <hi>Smith</hi> said <hi>Brown</hi> was a man of <hi>great Veracity,</hi> and here he takes the liberty to say <hi>he is a Lyar,</hi> or if you please to have it in a softer Phrase, <hi>what</hi> Brown <hi>says is utterly false.</hi> In truth one of these two are both <hi>Common Lyars;</hi> but in this particular the Scale turns to <hi>Brown</hi>'s advantage, for the Books them<g ref="char:EOLhyphen"/>selves, and <hi>Smith</hi>'s known inability to write them, is an irrefragible Evidence on behalf of the <hi>Poet,</hi> against the <hi>Alsatian Squire.</hi>
+            </p>
+            <p>From this Sentence <hi>Smith</hi> appeals to an <hi>Original Manuscript which he presented to His Majesty's own Hand in</hi> November 1696. Bless me God, what an Impudent Asserti<g ref="char:EOLhyphen"/>on is this! sure these Wretches think they have a Patent for Writing themselves to the Devil <hi>Cum Privilegio,</hi> or they durst not obtrude such a Notorious Lye upon the World, as to say he deliver'd an Ori<g ref="char:EOLhyphen"/>ginal Manuscript into the King's Hands in <hi>November</hi> 1696. nothing different from the Printed Memoirs, when the whole Printing House can testifie, that they were forced to stay for Copy several days
+<pb n="13" facs="tcp:63464:8"/> together, while <hi>Brown</hi> was writing it for the Press in 1698. Sure <hi>Brown</hi> was <hi>Drunk</hi> when he writ this Paragraph, or tho they are able to Lye with the Devil for the Whetstone, yet they have worse Memories than the <hi>Fool at</hi> Athens <hi>that forgot his own Name,</hi> and so want an Essential Requisite to carry on their Trade of Lying, and Slandering, without being detected in every Paragraph.</p>
+            <p>He also <hi>Appeals to his Original Letters left in the House of Lords. Brown</hi> and <hi>Smith</hi> are fond of the word <hi>Original,</hi> and are a Couple of <hi>Original Lyars</hi> for their pains; for they both know <hi>his Original Letters were lost, and that there were above twenty Copies, Sould, Pawn'd, and given away, before he produced those that were left in the House of Lords;</hi> but that which for ever puts an end to this pretence, <hi>I hereby offer to shew any man,</hi> Browns <hi>Alte<g ref="char:EOLhyphen"/>rations, and Additions to those Letters, un<g ref="char:EOLhyphen"/>der</hi> Brown's <hi>own Hand:</hi> Which they know I received from the Hands of the Printer, that was first employ'd in Printing their <hi>Infamous Memoirs.</hi>
+            </p>
+            <p>In the next place he says I have taken care (as much as in me lies) to destroy Mr. <hi>Brown</hi>'s Authority by the Scandalous Character I have given him: To which I only Answer, I am sorry he gave me
+<pb n="14" facs="tcp:63464:9"/> cause by his Villanous Practices, <hi>in beg<g ref="char:EOLhyphen"/>ging Pardon for one Crime, and immediate<g ref="char:EOLhyphen"/>ly running into a greater;</hi> for which I am so far from repenting of, that to do my Reader justice, and convince him that I treated <hi>Brown</hi> but too Modestly, I shall enlarge a little upon that head, and refer him for the rest to the <hi>History of</hi> Brown<hi>'s Life</hi> which is now a Printing, and then all mankind will say I treated him Mo<g ref="char:EOLhyphen"/>destly, till his <hi>Scandalous Reply</hi> provoked me to lay him open to the World.</p>
+            <p>In all their Scurrilous Pamphlets, <hi>Mulus Mulum scalpit,</hi> they Nab and Flatter one another at such a vile Rate, as would make a Dog break his Halter to see it. <hi>Brown</hi> sets up <hi>Smith</hi> for a <hi>Learned Prefa<g ref="char:EOLhyphen"/>cer, and a Profound Politician,</hi> and <hi>Smith</hi> daubs <hi>Brown</hi> with the Character of <hi>a Per<g ref="char:EOLhyphen"/>son of great Honour and Veracity,</hi> when Handy Dandy, Pickly Pandy, Overmost or Lowermost, take which of them you will, they are a Couple of <hi>Incorrigible Rascals.</hi>
+            </p>
+            <p>'Tis true in the <hi>Modest Answer</hi> I called <hi>Brown</hi> a Scoundrel, and now I take the liberty to Add that he is a <hi>Common Shark, an Infamous Scandalizer, a Notorious Cheat, and has long since forfeited his Ears to the Pillory,</hi> and this I will prove not by ask<g ref="char:EOLhyphen"/>ing Ridiculous Questions, such as he
+<pb n="15" facs="tcp:63464:9"/> concludes his <hi>Libel</hi> with (and might be asked of any man in Christendom) but by <hi>matters of Fact and Irreproachable Evi<g ref="char:EOLhyphen"/>dences,</hi> of which I have many more by me, though I now produce but one upon each Head, for fear of swelling this Re<g ref="char:EOLhyphen"/>joinder, and Forestalling the History of his Life, where you will find them <hi>Usque ad Nauseam.</hi>
+            </p>
+            <p>Now to shew you <hi>Smith's Man of Ho<g ref="char:EOLhyphen"/>nour and great Veracity,</hi> who is stigmatiz'd by all that know him, for one of the greatest Lyars in the World, and a Com<g ref="char:EOLhyphen"/>mon Cheat! Come out <hi>Dear Tom.</hi> shew thy self in thy own proper Shapes and Colours. See how simply he looks now? How <hi>Mal à Droit</hi> the poor passive Villain makes his appearance, now he's entring upon his Trial. First,</p>
+            <p>I charge him with Borrowing a Sute of <hi>very Fine Linnen,</hi> some years since, of Mr. <hi>Henry Playford,</hi> Bookseller near the Temple, and never returning it, nor ma<g ref="char:EOLhyphen"/>king any satisfaction for it. Secondly,</p>
+            <p>I charge him wirh selling a Copy of a Book, called <hi>The Welsh Levite Toss'd in a Blanket,</hi> to Mr. <hi>Thomas Jones</hi> Bookseller, for Four Pounds, and receiving the Mo<g ref="char:EOLhyphen"/>ney of him, and afterward took the Co<g ref="char:EOLhyphen"/>py from him, under pretence of adding something to it, and Sold it to another
+<pb n="16" facs="tcp:63464:10"/> Bookseller for the same Sum, without ever making Mr. <hi>Jones</hi> any kind of satisfaction to this Day: As you will find by the fol<g ref="char:EOLhyphen"/>lowing Letter he sent to me.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Sir,</hi> According to your Desire I have sent you a short account of Mr. <hi>Brown</hi>'s dealing with me, <hi>viz.</hi> I bought of him the Copy of his Book called the <hi>Welsh Levite,</hi> for Four Pounds, paid him the Money, and after I had had the Copy about three days in my Custody, he came to my Shop, and told me <hi>he would give the Preface a</hi> Flourishing Stroke, <hi>which would cause the Book to sell much Better:</hi> Whereupon I delivered him the Copy, and he went immediately and sold it to another Bookseller, by whom it was Printed; but Mr. <hi>Brown</hi> never paid me a Penny of my Mony back. This is the Truth, and I will make Oath of it when you please. Another time he was Pawn'd at the <hi>Rose Tavern</hi> without <hi>Temple Bar</hi> for Eleven Shillings; he sent for me to discharge the Reckoning, which I did; but he never re<g ref="char:EOLhyphen"/>paid me. At the <hi>Ship Tavern</hi> I lent him Half a Crown, and he promised to treat me; but instead of that, he went away and Pawn'd me for the whole Reckoning. He bitt Mrs <hi>Rand</hi> that keeps a Linnen Shop at the <hi>Black Lyon</hi> in <hi>Newgate-street,</hi> of as much Linnen as came to Thirty Shillings,
+<pb n="17" facs="tcp:63464:10"/> for which she has not got her Mony yet. Af<g ref="char:EOLhyphen"/>ter the same manner he had like to have served Mr. <hi>Barrow</hi> the Taylor, but he Ar<g ref="char:EOLhyphen"/>rested him for his Mony, and Dr. <hi>D.</hi> be<g ref="char:EOLhyphen"/>came Bayl for him, and he suffer'd the Doctor to be taken in Execution for it. He came to my Brother and borrowed Dr. <hi>Brown</hi>'s and <hi>Oldham</hi>'s Works, and went and sold them immediately at the next shop for Ready Mony. He writ a Lampoon of half a Sheet upon the late Dr. <hi>H—k,</hi> for a dozen of Beer, and some Bread and Cheese. If I had a days time to refresh my memory, I could fill a whole Sheet with his Tricks; but this may suffice till I see you. In the mean time I am,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>
+                        <hi>Your humble Servant,</hi> T. Jones.</signed>
+                     <dateline>
+                        <date>Febr. <hi>19. 1699.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Mr. <hi>Roper</hi> Bookseller, at the Black Boy in <hi>Fleetstreet,</hi> who had been <hi>Brown</hi>'s spe<g ref="char:EOLhyphen"/>cial Friend upon all occasions, employ'd him to write a Banter upon the New Sect called <hi>Philodelphians. Brown</hi> went seve<g ref="char:EOLhyphen"/>ral times to <hi>Hungerford</hi> Market to hear them, and having as he said furnish'd himself with matter, undertakes it, gets Mony at several times of Mr. <hi>Roper,</hi> while <hi>Brown</hi> pretended the Work was un<g ref="char:EOLhyphen"/>der hand, and hearing Mr. <hi>Roper</hi> was go<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:63464:11"/> out of Town, <hi>Brown</hi> tells him the Copy was almost finished, and therefore desires him to leave Order, that upon de<g ref="char:EOLhyphen"/>livering the Copy he might receive the rest of the Mony agreed for. Mr. <hi>Roper</hi> consented to his desires, and the very next day after <hi>Brown</hi> knew Mr. <hi>Roper</hi> was upon his journy, <hi>Brown</hi> sews up a parcel of Useless Papers under a <hi>Marble Paper</hi> Cover, with the following Title.
+<q>
+                  <hi>Speculum Hoeresiarcharum;</hi>
+                  <lb/> Or, the Impostures of the New Sect, that call themselves <hi>Philodelphians,</hi> laid open in Six Letters, by Mr. <hi>Brown:</hi>
+               </q> And flou<g ref="char:EOLhyphen"/>rishes the Title Page with a Verse out of <hi>Horace,</hi> which in truth is his own pro<g ref="char:EOLhyphen"/>per Character, Prayer, and Practice.
+<q>
+                  <l>Da mihi fallere, da Sanctum justumque videri,</l>
+                  <l>Noctem Peccatis, &amp; Fraudibus objice Na<g ref="char:EOLhyphen"/>bem.</l>
+               </q>
+            </p>
+            <p>With this Specions Title, under which was not one word relating to the Subject, <hi>Brown</hi> Trots to Mr. <hi>Roper</hi>'s Shop, and shewing a Manuscript under the Title above written, Mrs. <hi>Roper</hi> not suspecting so vile a Cheat, pays <hi>Brown</hi> three Pound, that her Husband had order'd for him upon delivery of the Copy agreed for:
+<pb n="19" facs="tcp:63464:11"/> Which Fraud was undiscover'd till her Husband's return; but <hi>Brown</hi> never made any satisfaction for the Cheat. And if these repeated Frauds don't merit a <hi>Pillo<g ref="char:EOLhyphen"/>ry,</hi> I know not what does.</p>
+            <p>Having sufficiently proved him a <hi>Shark,</hi> and <hi>Cheat,</hi> my next affair is to prove him a <hi>Common Makebate</hi> and <hi>Slanderer,</hi> which tho I might do sufficiently by reciting se<g ref="char:EOLhyphen"/>veral of his <hi>Pamphlets</hi> and <hi>Lampoons,</hi> wherein he has blasphemed the Gods, Af<g ref="char:EOLhyphen"/>fronted Kings, Libell'd Princes, Scanda<g ref="char:EOLhyphen"/>liz'd the Court and City, and in his Scur<g ref="char:EOLhyphen"/>lilous Petitions spared no Sex, Order, or Quality of Men or Women whatsoever; yet I rather chuse to do it under this pleasant Relation.</p>
+            <p>A Gentleman of a Clear Reputation, and a Plentiful Fortune near <hi>B—w</hi> in <hi>Es<g ref="char:EOLhyphen"/>sex,</hi> accidentally falling into <hi>Brown</hi>'s Com<g ref="char:EOLhyphen"/>pany in <hi>London,</hi> he invites him to his House in the Country, where he enter<g ref="char:EOLhyphen"/>tain'd him nobly for a Month, took him with him to other Gentlemens Houses, and at length sent him away with Mony in his Pockets. Not long after the Gen<g ref="char:EOLhyphen"/>tleman commending <hi>Brown</hi> as a Pleasant Fellow to some of his Neighbouring Gen<g ref="char:EOLhyphen"/>tlemen, at whose Houses <hi>Brown</hi> had been, they all agreed that <hi>Brown</hi> was pleasant in his humour, but said he was <hi>a very Rascal
+<pb n="20" facs="tcp:63464:12"/> in his Nature,</hi> for he had scandalously treated that Gentleman behind his Back, that had been so kind to him: Upon which they premeditated a Revenge, in<g ref="char:EOLhyphen"/>vite <hi>Brown</hi> again into the Country, and down he comes as Bluff as a Bully at an Ordinary.</p>
+            <p>The Neighbouring Gentleman hearing of his Arrival, came to attend a Ceremo<g ref="char:EOLhyphen"/>ny that <hi>Brown</hi> little dream'd of; and ha<g ref="char:EOLhyphen"/>ving repeated his foul Crimes and Mis<g ref="char:EOLhyphen"/>demeanors to him, in Reviling a Gentle<g ref="char:EOLhyphen"/>man that had been so extraordinary Civil to him, they told him <hi>Nolens Volens</hi> he must with his own hand draw up, and Sign a Confession of his Fault, Beg Par<g ref="char:EOLhyphen"/>don upon his Knees, and submit to a Punishment which was to be inflicted up<g ref="char:EOLhyphen"/>on him. <hi>Brown</hi> readily perform'd the first part of his Pennance, and then was lead into the Gentleman's Hall to perform the latter.</p>
+            <p>Now the Servants roll'd him upon the <hi>Table,</hi> as they mould <hi>Cockle Bread.</hi> Then they Scuer'd him up in a <hi>Blanket</hi> from Head to Foot, leaving a place like the Holes of a <hi>Pillory</hi> to speak through, and having soundly shaked his Corps to set<g ref="char:EOLhyphen"/>tle him in his <hi>Geeres,</hi> they Mount him up<g ref="char:EOLhyphen"/>on a <hi>Stool of Repentance,</hi> set for that purpose in the middle of the Hall, and then let in
+<pb n="21" facs="tcp:63464:12"/> the Mob to be his Auditors, whilst with an audible Voice <hi>Brown</hi> makes this Con<g ref="char:EOLhyphen"/>fession.</p>
+            <p>
+               <hi>I</hi> Thomas Brown <hi>do Acknowledge and Con<g ref="char:EOLhyphen"/>fess my self to be a</hi> Rogue, <hi>a</hi> Scoundrel, <hi>and a</hi> Rascal, <hi>that deserves not to live, for speak<g ref="char:EOLhyphen"/>ing Dishonourably of this Worthy Gentleman,</hi> pointing to the Master of the House, <hi>that has been my great Benefactor, for which Vil<g ref="char:EOLhyphen"/>lanous Offence I am heartily sorry, humbly beg his Pardon, and Promise never to com<g ref="char:EOLhyphen"/>mit the like Offence against any Man for the future.</hi>
+            </p>
+            <p>When <hi>Brown</hi> had duly perform'd this Pennance, in Manner and Form as afore<g ref="char:EOLhyphen"/>said, and the <hi>Mob</hi> had exercised their <hi>Witts</hi> upon him, he was thrown into a <hi>Turnep-Cart</hi> scuer'd up as abovementioned, and the Cart environd by a strong Mob, Shouting and Hallowing; he was car<g ref="char:EOLhyphen"/>ried in Triumph through the Town, and at the end of it was Shot out of the Carts Arss into a Dirty Puddle, and Half a Crown being put in his hand was sent Packing on Bayard a-Ten-Toes to <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+            </p>
+            <p>Thus have I shew'd you in little, <hi>Smith's Man of great Veracity,</hi> whose true Character you see is <hi>a Cheating Lying Knave, that never gave any Man an Ill Word to his Face, nor a Bad one behind his
+<pb n="22" facs="tcp:63464:13"/> Back,</hi> and therefore I thought it necessa<g ref="char:EOLhyphen"/>ry to describe them, lest those who con<g ref="char:EOLhyphen"/>verse with their <hi>Libel</hi> in the dark, should give it Credit for want of better Satisfa<g ref="char:EOLhyphen"/>ction, who, and what they are, that writ it.</p>
+            <p>That I wrote a Book called <hi>Cursory Re<g ref="char:EOLhyphen"/>marks</hi> is very True; but that I wrote an Answer to it my self is a <hi>Brownism;</hi> for the Answer to that Book was written by Mr. <hi>Sedgwick</hi> who <hi>Glories in it,</hi> tho' I ne<g ref="char:EOLhyphen"/>ver thought it worthy of a <hi>Reply,</hi> nor made one to it; and if <hi>Brown</hi> or <hi>Smith,</hi> or any of that Crew, can shew me any <hi>Reply</hi> to that Answerer either written by me, or any other Man living or dead, I hereby ob<g ref="char:EOLhyphen"/>lige my self to Pay him Ten Pounds that shall shew it to me. What little things <hi>Brown</hi> and <hi>Smith,</hi> and the rest of that Gang, lay hold upon to traduce me, and to perswade the World, that after I have written Eighteen Volumes for this Go<g ref="char:EOLhyphen"/>vernment, and have Answer'd the grea<g ref="char:EOLhyphen"/>test part of all the Books and Pamphlets that have been written against it, I should now <hi>Lampoon my self,</hi> by writing against a Government from whom I receive a comfortable Subsistence, and to which I will always remain a Dutiful Subject, tho' <hi>Brown</hi> and <hi>Smith,</hi> and all its Enemies, were Hang'd.</p>
+            <pb n="23" facs="tcp:63464:13"/>
+            <p>That <hi>Smith</hi> is maintain'd by a Party, I still affirm. He has no Estate, nor any honest way in the World to get a Penny, and I don't take him to be a <hi>Camelion</hi> that can live by the Air, and therefore till he publishes his <hi>Modus Vivendi.</hi> I shall still retain my former Opinion. I did also say, and credibly prove in my <hi>Modest Answer,</hi> That <hi>Brown</hi> said <hi>Dr.</hi> Chamberlain <hi>was Ca<g ref="char:EOLhyphen"/>shier to the Party, and sent Money to</hi> Smith <hi>as often as he sent for it:</hi> And now I fur<g ref="char:EOLhyphen"/>ther say, and can prove by other Witnes<g ref="char:EOLhyphen"/>ses than Mr. <hi>Read</hi> and Mrs. <hi>Scot,</hi> that the same Gentleman has paid <hi>Smith</hi> some considerable Summes since he has been in Custody, and I don't think it agrees with the Doctor's Circumstances, to give such large Sumes out of his own Pocket; for the Money that <hi>Smith</hi> pretends was left in Mr. <hi>Chamberlain</hi>'s Custody to pay his monthly Pension abroad, was all spent long before <hi>Smith</hi> by his Brother <hi>Brown</hi>'s hand set up for an Author.</p>
+            <p>
+               <hi>Smith</hi> seems mightily concern'd at my saying <hi>he was broke for being a Notori<g ref="char:EOLhyphen"/>ous Coward,</hi> and wants to know the Lords Names, and the Instance of his Cowardize for which he was Broke, in which I am willing to oblige him, and therefore tell him <hi>he was Broke for being a
+<pb n="24" facs="tcp:63464:14"/> Coward</hi> by those <hi>Noble Peers</hi> that were Commissionated by His Majesty to View and Reform the Army, whose Commissi<g ref="char:EOLhyphen"/>on is upon Record, and there he may find their Lordships Names, whom I have no need to trouble for Instances of his <hi>Cowardice,</hi> since there are so many nearer home: As his being <hi>Cudgell'd in</hi> White-Hall <hi>at the Head of his Company, being kick'd down Stairs by a Drawer at the</hi> Rum<g ref="char:EOLhyphen"/>mer Tavern; <hi>and others are pleas'd to as<g ref="char:EOLhyphen"/>sign his being so often Kick'd, and Cuff'd, and Tweak'd by the Nose, as the Cause of his having no moisture left in his Brains.</hi> In this Qualification I may also join him with his Brother <hi>Brown,</hi> who is as Rank a Coward as himself, who both had rather Eat than Fight, tho they had nothing but <hi>Dry Bread</hi> for their Dinners.</p>
+            <p>But now comes the <hi>Dead-doing Things,</hi> that must Ruin my Credit to all Intents and Purposes, and which has given them the Priviledge of calling me, I thank them, by their <hi>Own Names.</hi> The first is, that I call'd <hi>Charles Read</hi> by the Name of <hi>William,</hi> a <hi>Sad Crime</hi> indeed; but me<g ref="char:EOLhyphen"/>thinks he should first have enquir'd, whe<g ref="char:EOLhyphen"/>ther it were <hi>My</hi> Mistake or the <hi>Prin<g ref="char:EOLhyphen"/>ters</hi> before he had given me such hard Words. The next is, that Mr. <hi>Charles
+<pb n="25" facs="tcp:63464:14"/> Read finding his Name used by</hi> R. Kingston <hi>to support divers things which he knew to be false, generously gave</hi> Smith <hi>a Certificate to disprove it.</hi>
+            </p>
+            <p>Aye, now there's something in't, as the Fellow said when he drank down a <hi>Dish Clout:</hi> Before the Quarrel was fri<g ref="char:EOLhyphen"/>volous, only Tilting <hi>Foreheads,</hi> where the Hardest Skulls, not the Fullest must get the Victory; but now they have, procur'd a <hi>Certificate,</hi> certainly they'l <hi>Maul</hi> me, and I had better cry Quarter quickly, than be Ruin'd for ever.</p>
+            <p>
+               <hi>What a Certificate! and a Certificate from</hi> Charles Read <hi>Gentleman?</hi> Wo worth the day! What Mortal Wight is able to bear up against the United Force of <hi>Brown Smith,</hi> and a Certificate; for if Three to One be Odds at Football, it is much more to my disadvantage at Logger<g ref="char:EOLhyphen"/>heads.</p>
+            <p>But Pleasantry a-part, are not <hi>Brown</hi> and <hi>Smith</hi> a Couple of <hi>Pure Rogues to Roast,</hi> that dare in the Face of the Sun, and in the same Parish where the Persons concern'd Reside, and while one of them is in a <hi>Goal,</hi> and the other <hi>Hides his Head</hi> for fear of being brought to <hi>Justice,</hi> dares, I say, write a Certificate under a Man's Hand that lives in <hi>Westminster</hi> that is ut<g ref="char:EOLhyphen"/>terly
+<pb n="26" facs="tcp:63464:15"/> false, and consequently their Vil<g ref="char:EOLhyphen"/>lany might be easily Detected: I stand amazed to think on't. Han't they Crimes enow already to account for, but they must add <hi>Forgery</hi> to the rest? and yet as Strange and Wicked as it is, they have had the Impudence to do it more than once.</p>
+            <p>First, <hi>Smith</hi> contrived a much more Scandalous <hi>Certificate</hi> against me than what they now have <hi>Printed,</hi> which was also signed by <hi>Charles Read,</hi> wherein a<g ref="char:EOLhyphen"/>mong other Notorious Lies they accu<g ref="char:EOLhyphen"/>sed me as being a Spye upon His Maje<g ref="char:EOLhyphen"/>sty's Ministers, which <hi>Reade</hi> getting from <hi>Smith,</hi> brings it to me at the <hi>White-Hall</hi> Coffee-House, saying, <hi>See, Sir, what</hi> Smith <hi>has done, he has put my Name to a False Certificate,</hi> and at the same time shewed the Forged Certificate to me, written in <hi>Smith</hi>'s hand, and signed <hi>Charles Reade;</hi> and other Gentlemen be<g ref="char:EOLhyphen"/>ing then and there present, <hi>Reade</hi> vo<g ref="char:EOLhyphen"/>luntarily offer'd to certifie under his Hand that it was <hi>false;</hi> which being thought ad<g ref="char:EOLhyphen"/>viseable and proper for him to do, <hi>Reade</hi> immediately signs the following Certi<g ref="char:EOLhyphen"/>ficate, and keeps a Copy of it him<g ref="char:EOLhyphen"/>self.</p>
+            <q>
+               <pb n="27" facs="tcp:63464:15"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>Whereas Captain <hi>Matthew Smith</hi> hath inserted in a Paper which I unadvisedly gave him under my Hand, that Mr. <hi>Rich<g ref="char:EOLhyphen"/>ard Kingston was employed as a Spye</hi> up<g ref="char:EOLhyphen"/>on the King's Ministers, I do hereby affirm that the Words are False and Scandalous, and put in by the said Captain <hi>Smith</hi> with<g ref="char:EOLhyphen"/>out my Knowledge, Consent or Approbation, witness my Hand this Twenty Ninth day of <hi>January 1699/700.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>Witness the Mark of</hi>
+                              <list>
+                                 <item>Charles Reade.</item>
+                                 <item>Appleby Haggas.</item>
+                                 <item>Will Wybrand.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus upon the 29th Day of <hi>January,</hi> Three and Twenty Days after <hi>Smith</hi>'s Certificate bears Date, did this <hi>Man of Singular Honesty</hi> Charles Read <hi>Gentleman,</hi> Certifie under his Hand, that <hi>Smith</hi> had inserted Words into a Certificate against Mr. <hi>Kingston,</hi> that were False, and Scan<g ref="char:EOLhyphen"/>dalous, and also that this <hi>Man of Singu<g ref="char:EOLhyphen"/>lar Honesty,</hi> Charles Read <hi>Gentleman,</hi> did also sign a Certificate, that he knew to be False, and Scandalous, and by this means have proved themselves to be a
+<pb n="28" facs="tcp:63464:16"/> Couple of Fellows of <hi>Singular Villany and Perfidy.</hi>
+            </p>
+            <p>This Practice being so early detected by <hi>Read</hi> himself, they thought it proper to lay aside that Certificate, and invent<g ref="char:EOLhyphen"/>ed that which is <hi>Printed in</hi> Smith<hi>'s Libel,</hi> and which is as notoriously False in eve<g ref="char:EOLhyphen"/>ry Line of it, as Calumny could invent. As soon as I read this Certificate, I sent for this <hi>Man of Singular Honesty,</hi> Charles Read <hi>Gentleman,</hi> to come to me, and dis<g ref="char:EOLhyphen"/>course the matter: Which he promised several times to do, and to give me ano<g ref="char:EOLhyphen"/>ther Certificate under his Hand, that the <hi>Printed Certificate</hi> was also False and Scandalous, but never kept his Word; but on the contrary caused himself to be denied in Houses where he hid him<g ref="char:EOLhyphen"/>self out of the Way; so that neither my self, nor several other Gentlemen that made it their business three days together to find and speak with him, could ever see him since. And think<g ref="char:EOLhyphen"/>ing it a plain Case, <hi>that they which would Forge one Certificate, would Boggle at nothing in the same kind, I slighted him as a Self-detected Knave,</hi> and would wait his delaies no longer, being able to vindicate my Fair and Upright Dealing with <hi>Smith,</hi> and <hi>Brown</hi> by a Certificate from
+<pb n="29" facs="tcp:63464:16"/> a Gentleman of known Reputation, which be pleased to take in his own Words as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>Let this Certifie, That in what place soever Mr. <hi>Kingston</hi> has made use of my Name, in his Book entituled <hi>A Modest Answer to Captain</hi> Smith<hi>'s Immodest Memoirs of Secret Service,</hi> is Verbatim the Truth,</p>
+                        <closer>
+                           <dateline>Witness my Hand, <date>
+                                 <hi>February 23. 1699.</hi>
+                              </date>
+                           </dateline>
+                           <signed>Fr. Jermy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>With the same assurance that <hi>Smith</hi> Forged the Certificate, he says page 14. that he trusted me but with two of his Letters only, which is egregiously false; and to vindicate what I said in the <hi>Mo<g ref="char:EOLhyphen"/>dest Answer,</hi> that I had the sight of all his Letters under his own Hand, I appeal to the Right Honourable <hi>the Earl of</hi> St—d, to whom I shewed them all, and who was pleased to give himself the trouble of Reading them, at my House in the <hi>Old Palace Yard Westminster.</hi>
+            </p>
+            <p>
+               <hi>Brown</hi> and <hi>Smith</hi> are very merry about <hi>Smith's Dukedom,</hi> the <hi>Poet</hi> tumbles in his ugly Tropes, about the value of his
+<pb n="30" facs="tcp:63464:17"/>
+               <hi>Pension,</hi> and makes <hi>Reade</hi> say, that <hi>Smith</hi> never abused his <hi>Grace</hi> in any Reproach<g ref="char:EOLhyphen"/>ful Language; but these are all of a piece with the rest, as appears by the Certificate underwritten.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>We whose Names are subscribed, do af<g ref="char:EOLhyphen"/>firm, That Captain <hi>Matthew Smith,</hi> did use very Reproachful Language against the Iullustrious Prince named in his <hi>Memoirs,</hi> and did say he was promised a Pension of Four Thousand Pounds a Year, but he would not accept it without a Considera<g ref="char:EOLhyphen"/>ble Title: And further said, He knew they intended to make him <hi>a Lord,</hi> but he scorned to accept of any thing under a <hi>Duke,</hi> to the Truth of which we have hereunto set our Hands, and are ready to make Oath of it if required.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Fr. Jermy.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ric. Kingston.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>I do also affirm that <hi>Read</hi> was present when these Words were spoken, and if the Party have since bought him off, I wish them Joy of their Purchase; for I shall never Covet such an Evidence
+<pb n="31" facs="tcp:63464:17"/> that must be Hired, at the Price of who bids most for his Testimony, and will give it under his Own Hand that he is a Lyar and a Slanderer. He has hi<g ref="char:EOLhyphen"/>therto given me a daily account of what <hi>Smith</hi> has done, and said, what Com<g ref="char:EOLhyphen"/>pany resorts to him, and who brings and sends him Mony, to support his extravagant Expences in the Goal, which (credibly attested) is a Reserve for the next Encounter. In the mean time I cannot but take notice that his Complaint for want of Liberty, and his threatning what strange things he would perform if he had it, is as <hi>Ri<g ref="char:EOLhyphen"/>diculous</hi> as the rest of his <hi>Libel;</hi> for every Man knows, he is as much a <hi>Prisoner</hi> at his Lodgings in the <hi>Muse</hi> as in the <hi>Gate-House,</hi> and dares no more walk the Streets on Working-days, than Whet his Knife at the <hi>Counter Gate,</hi> or Face a <hi>Bayliff.</hi>
+            </p>
+            <p>That <hi>Smith</hi>'s Letters of Correspon<g ref="char:EOLhyphen"/>dence were <hi>Mended, Altered, and had several Additions made to them, is al<g ref="char:EOLhyphen"/>ready proved by Five Credible Witnesses:</hi> Against which they having made no Ob<g ref="char:EOLhyphen"/>jection, I am not obliged to waste more
+<pb n="32" facs="tcp:63464:18"/> words about it, having once already offered to shew the <hi>very Letters</hi> so <hi>Mended, Altered, and Added to, in</hi> Smith<hi>'s and</hi> Brown<hi>'s Hand Writing,</hi> which proves their whole <hi>Memoirs</hi> to be a meer Fardle of <hi>Improbabilities, Incongruities, and Invented Falsities.</hi>
+            </p>
+            <p>What an Impertinent Tedious Ha<g ref="char:EOLhyphen"/>rangue does <hi>Brown</hi> and <hi>Smith</hi> make a<g ref="char:EOLhyphen"/>bout <hi>John Hewet?</hi> I confess I was not at his Christening; but was credibly informed he was but Fifteen Years of Age when he entred into the Service of the <hi>Jacobites,</hi> and the <hi>Printer</hi> unluckily making it but Thirteen, gave occasion for all the Noise and Insults they have made upon it. But this is their Way, to stumble at Straws but leap over Blocks, take abundance of Pains to amuse the Reader about Trifles, that by Muddying the Water, they may shun the stroke that affects them. All I intended by naming <hi>Hewet,</hi> was to prove that <hi>John Hewet,</hi> being interro<g ref="char:EOLhyphen"/>gated upon Oath by the House of Lords, declared, <hi>That he never acquaint<g ref="char:EOLhyphen"/>ed</hi> Smith <hi>with any of the</hi> Jacobites <hi>Se<g ref="char:EOLhyphen"/>crets; but finding him Inquisitive, and
+<pb n="33" facs="tcp:63464:18"/> Prodigal of his Mony,</hi> Hewet <hi>collected News out of the</hi> Post Boy <hi>to get Mony from him, under pretence that it came from</hi> France. And to this, notwith<g ref="char:EOLhyphen"/>standing all their Mudling themselves in Ink, they have yet made no direct Answer to it; but think sculking be<g ref="char:EOLhyphen"/>hind Ill Words answers every thing.</p>
+            <p>The like they have done in relation to <hi>Captain Porter,</hi> whose mistake about which side <hi>Smith</hi> was Related to Sir <hi>William Perkins,</hi> he would improve to a rejection of the Matter of Fact; which they cunningly slide over, be<g ref="char:EOLhyphen"/>cause they knew it would have brought an Old House upon their Heads, there being several other Gentlemen ready to attest the same thing if there be oc<g ref="char:EOLhyphen"/>casion for it.</p>
+            <p>After this <hi>Slurr,</hi> they make a Hor<g ref="char:EOLhyphen"/>rid Noise with <hi>Smith</hi>'s no Service, and quoted <hi>Letters</hi> and <hi>Minutes</hi> in their Justification, which have already been proved to be <hi>Spurious,</hi> and consequent<g ref="char:EOLhyphen"/>ly <hi>ought not to be given in Testimony.</hi> They are also very angry that I say <hi>Smith</hi> is a <hi>Dunce,</hi> no <hi>Scholar,</hi> understands
+<pb n="34" facs="tcp:63464:19"/> no <hi>Latine,</hi> which I am ready to prove to his Head whensoever he pleases: And that I understand <hi>Greek</hi> better than He or his Brother <hi>Brown</hi> understands the Principles of <hi>Honesty,</hi> or the Rules of <hi>Good Manners;</hi> of which, if God has given them any <hi>Knowledge,</hi> the Devil has given them the <hi>Applica<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>Brown</hi> and <hi>Smith</hi> have made very bold with the Honour and Reputation of several Gentlemen, that have done the Government very considerable Ser<g ref="char:EOLhyphen"/>vice; but that I pass over with silence, since it proceeds from such polluted Mouths that are the Contempt of Mankind, whom to Tye up from their Meat was to scandalize <hi>Tyburn,</hi> and spoil a Couple of <hi>Ropes</hi> that might serve for better purposes. The Gen<g ref="char:EOLhyphen"/>tlemen are all known to be such, and <hi>Brown</hi> and <hi>Smith</hi> can't hope to escape a due Chastizement from them, if their being such inconsiderable <hi>Scoun<g ref="char:EOLhyphen"/>drels</hi> is not a <hi>Protection</hi> to their <hi>Ears</hi> and their <hi>Shoulders.</hi>
+            </p>
+            <pb n="35" facs="tcp:63464:19"/>
+            <p>I have already given my Reader a short sight of <hi>Brown,</hi> and referred him to a full view in the <hi>History of his Life;</hi> and now am obliged to shew you his <hi>Counter-part</hi> in the <hi>Alsatian Squire Smith:</hi> Who Railing at my <hi>Modest An<g ref="char:EOLhyphen"/>swer,</hi> has given me an opportunity to vindicate it, as a <hi>Modest Answer</hi> in Ge<g ref="char:EOLhyphen"/>neral, and particularly in this Instance.</p>
+            <p>In the last page of that Book, I said <hi>Smith</hi> was a <hi>Vain Creature,</hi> for when his <hi>Memoirs</hi> were Printing, and he upon the Pin of commending his own <hi>Power</hi> and <hi>Politicks,</hi> he said in the Presence of two Reputable Citizens, <hi>That it was in his Power to Ruine or Preserve the Present Government:</hi> Now to convince him that I had Authority for what I said, one of the Persons that heard him, was pleased to give me the following Certificate.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>
+                           <hi>Memorandum,</hi> That Captain <hi>Mat<g ref="char:EOLhyphen"/>thew Smith</hi> did say at the <hi>Cross Keyes Tavern</hi> at St. <hi>Martins Lane End,</hi> that it was in his Power to make this Nation Happy or Miserable as he pleas'd, and that if he had not the Reward from the
+<pb n="36" facs="tcp:63464:20"/> Government which he expected, he would bend his Force another way, and serve the <hi>French King.</hi> Further he said, it was in his Power to displace the K—: And that there was not a Court in Chri<g ref="char:EOLhyphen"/>stendom, but <hi>Smith</hi> had his Emissaries in it <hi>(or some such like Expression)</hi> even in their Cabinet Councils.</p>
+                        <closer>
+                           <dateline>Witness my Hand <date>this <hi>21th</hi> of <hi>February, 1699.</hi>
+                              </date>
+                           </dateline>
+                           <signed>Benj. Beardwell.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Mr. <hi>Roper,</hi> and other Persons, were in <hi>Smith</hi>'s Company at the same time, who being all Persons well affe<g ref="char:EOLhyphen"/>cted to His <hi>Majesty</hi> and the <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> took such an <hi>Abhorrence</hi> against <hi>Smith,</hi> for his Boasting, Disloyal, and Scurrilous way of talking, that they would never come into his Company since. What shall I say! <hi>Smith</hi> and <hi>Brown</hi> think their being such <hi>Infamous Wretches,</hi> will always protect them from Punishment; but let them take care for the future; for tho <hi>Eagles</hi> don't Quarry upon <hi>Flies</hi> and <hi>Maggots,</hi> if they persevere in Affronting the <hi>King's Ma<g ref="char:EOLhyphen"/>jesty,</hi> and abusing his <hi>Ministers,</hi> they
+<pb n="37" facs="tcp:63464:20"/> will at last fall under the Pounces of the Law, and be Compelled to render up their Asses Ears to Justice, before their Calves Heads can spare them. And now I think I have shewed my Reader a Couple of very pretty Bea<g ref="char:EOLhyphen"/>gles, but that have the worst Mouths of any of their kind in <hi>Europe.</hi>
+            </p>
+            <p>All the rest of their <hi>Libel</hi> spends it self in Reviling, and Threatening me. Against their former Insults and Scandals, I will seek my Remedy at Law; but since their <hi>Libel</hi> may in the mean time fall into the hands of Strangers. I think fit to Anti<g ref="char:EOLhyphen"/>dote their <hi>Venom,</hi> by giving a brief Account of my self: And as for their Folish Idle Threatnings. I am in no Pain, being secured of Life and Limbs by vertue of an Old Pro<g ref="char:EOLhyphen"/>verb, <hi>Canes Timidi vehementius la<g ref="char:EOLhyphen"/>trant quam mordent:</hi> To which, for <hi>Smiths</hi> sake, I will add another in <hi>English; Barking Currs commonly go with Bitten Ears.</hi>
+            </p>
+            <p>Now, tho' I have already given sufficient Reasons in the Foregoing
+<pb n="38" facs="tcp:63464:21"/> Discourse, why <hi>Brown</hi> and <hi>Smith</hi> ought not to be believed in any thing they affirm, and that they have offer'd at no kind of Proof to support their Scandalous Suggesti<g ref="char:EOLhyphen"/>ons; yet in Justice to my own Re<g ref="char:EOLhyphen"/>putation, which is dearer to me then my Life; I thought fit to exhibit the following Testimonials.</p>
+            <p>Their Insinuating my not being in Orders, after I am above Sixty Three Years of Age, and have Exercised the Ministerial Function in the Church of <hi>England,</hi> above Seven and Thirty Years; and have been Four times <hi>Instituted</hi> and <hi>Inducted</hi> into very con<g ref="char:EOLhyphen"/>siderable <hi>Ecclesiastical</hi> Preferments; shews their <hi>Ignorance</hi> is as great as their <hi>Malice;</hi> however to put it out of Doubt, let them read the follow<g ref="char:EOLhyphen"/>ing Testimonials, from a Gentleman that was Ordained by the <hi>same Bishop,</hi> and at the same time and place, with my self, which seems very Providen<g ref="char:EOLhyphen"/>tial, almost at Forty Years Distance of time.</p>
+            <q>
+               <pb n="39" facs="tcp:63464:21"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>These are to certify whom it may con<g ref="char:EOLhyphen"/>cern, That Mr. <hi>Richard Kingston</hi> late Minister of <hi>Henbury</hi> in the Diocess of <hi>Bristol,</hi> was Ordained Deacon and Priest, according to the Rites and Ceremonies of the Church of <hi>England,</hi> in <hi>Westminster,</hi> by the Bishop of <hi>Galloway,</hi> who then Or<g ref="char:EOLhyphen"/>dained there, and Subscribed himself, <hi>Thomas Candidae Casae Episcopus,</hi> my self being Ordained at the same time and Place with him, <hi>viz.</hi> upon the 17th Day of <hi>July, 1662.</hi> In Witness whereof, I have hereunto set my hand.</p>
+                        <closer>
+                           <signed>
+                              <hi>Thomas Beesly,</hi> Vicar of <hi>Little Marlow</hi> in the County of <hi>Bucks.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Those whose Curiosity leads them further, may search the Bishops <hi>Subscrip<g ref="char:EOLhyphen"/>tion Book,</hi> to which <hi>Register</hi> I Appeal as an Undenyable Testimony of my Ordination.</p>
+            <p>In 1681, I had the Honour to be made <hi>Chaplain in Ordinary to King</hi> Charles <hi>the Second,</hi> and it being Usual for all persons, on whom that Dignity is Confered, to be Certified for by the
+<pb n="40" facs="tcp:63464:22"/>
+               <hi>Bishop</hi> of the Diocess to the <hi>Lord Cham<g ref="char:EOLhyphen"/>berlain.</hi> Dr. <hi>Gulston,</hi> then <hi>Bishop of Bri<g ref="char:EOLhyphen"/>stol,</hi> was pleased to give me the Certifi<g ref="char:EOLhyphen"/>cate following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <head>To the Right Honourable, <hi>Henry,</hi> Earl of <hi>Arlington,</hi> Lord Cham<g ref="char:EOLhyphen"/>berlain of His Majesty's Hous<g ref="char:EOLhyphen"/>hold.</head>
+                        <p>These are Humbly to Certifie your Lordship, that <hi>Richard Kingston</hi> Clerk, Master of Arts, and Minister of <hi>Henbu<g ref="char:EOLhyphen"/>ry,</hi> hath Officiated in my Diocess of <hi>Bri<g ref="char:EOLhyphen"/>stol,</hi> the space of Three Years last past; in all which time he hath behaved him<g ref="char:EOLhyphen"/>self Soberly, and Piously in his Conver<g ref="char:EOLhyphen"/>sation, Orthodoxly in his Judgment, as a Loyal and Obedient Subject to His Ma<g ref="char:EOLhyphen"/>jesty, and a Dutiful Son of the Church of <hi>England,</hi> and is a Person well de<g ref="char:EOLhyphen"/>serving Preferment; all which I Freely and Willingly attest</p>
+                        <closer>
+                           <dateline>under my Hand, <date>this <hi>21th</hi> day of <hi>December</hi> Annoque Domini <hi>1681.</hi>
+                              </date>
+                           </dateline>
+                           <signed>W. Bristol.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="41" facs="tcp:63464:22"/>
+            <p>This Reverend <hi>Prelate</hi> is dead, but Mr. <hi>Nathaniel Powel,</hi> then his Lord<g ref="char:EOLhyphen"/>ships Secretary, is still alive in <hi>London,</hi> ready to testifie the truth of the above-written Testimonial. Next follows the Lord Chamberlains Warrant.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>These are to Certifie, that Mr. <hi>Richard Kingston,</hi> Master of Arts, is Sworn and Admitted into the Place and Quality of Chaplain in Ordinary to His Majesty; By Vertue of which Place, he is to enjoy all Rights and Priviledges thereto belonging.</p>
+                        <closer>
+                           <dateline>Given under my Hand and Seal <date>this Sixth day of <hi>February 1681/2,</hi> in the Thirty Fourth Year of His Majesty's Reign.</date>
+                           </dateline>
+                           <signed>Arlington.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After this I had other considerable Preferments, a Prebend and a Recto<g ref="char:EOLhyphen"/>ry added to my Living of <hi>Henbury,</hi> and upon my Admission thereto, my Parishioners of <hi>Henbury</hi> were pleased to give me the under-written Testimo<g ref="char:EOLhyphen"/>nial. The Qualities of the Subscribers were added by my self.</p>
+            <q>
+               <pb n="42" facs="tcp:63464:23"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <p>We the Parishioners and Inhabitants of the Parish of <hi>Henbury,</hi> in the County of <hi>Gloucester,</hi> and Diocess of <hi>Bristol,</hi> do hereby Certifie that <hi>Richard Kingston</hi> Clerk, and Minister of the said Parish, during the Time of his Residence among us, hath Preached Orthodoxly, and per<g ref="char:EOLhyphen"/>formed all other Divine Offices, Canoni<g ref="char:EOLhyphen"/>cally, and Industriously, very much to our Satisfaction and Good Liking; and hath been, and is of a Sober and Vertuous Life and Conversation, an Obedient Sub<g ref="char:EOLhyphen"/>ject to His Majesty, and a Dutiful Son of the Church of <hi>England;</hi> all which we Freely Testifie under our Hands, this 15th of <hi>February, 1683.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Robert Southwell, Knight.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sam. Astry, Knight.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Christopher Cole, Esq;</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Christopher Cole, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edw. Sampson, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Geo. Petre, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen. Stoakes, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edw. Parker, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Edmunds, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Wasborow, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Arthur White, Gent.</hi>
+                                 </item>
+                                 <pb n="43" facs="tcp:63464:23"/>
+                                 <item>
+                                    <hi>Tho. Rose, Gent.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Lovering, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Vimpany, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Baker, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rich. Orchard, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>John Hollister, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edw. Haynes, Yeoman.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Crooker, Farmer.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Anthony Burges, Farmer.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Stone, Scholemaster.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomes Ashley, Usher.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Streton, Ch. Ward.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>James Baker, Ch. Ward.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And every other individual House<g ref="char:EOLhyphen"/>keeper that came to Church, and paid Parish Duties in the whole Parish: which consists of eight several Town<g ref="char:EOLhyphen"/>ships, whose Names would take up too much Room in this Paper, and there<g ref="char:EOLhyphen"/>fore are omitted.</p>
+            <p>In this Parish of <hi>Henbury</hi> I continued from 1678. till a little after the <hi>Happy Revolution:</hi> Then I sold an Estate in <hi>Henbury,</hi> paid my <hi>Just Debts,</hi> and brought above Two Hundred Pounds with me to <hi>London,</hi> where I have lived
+<pb n="44" facs="tcp:63464:24"/> ever since. I have now served His Ma<g ref="char:EOLhyphen"/>jesty above <hi>Eight Years,</hi> and how I have behaved my self with Respect to the Publick, I appeal to the <hi>Right Ho<g ref="char:EOLhyphen"/>nourable the several Secretaries of State,</hi> with whom I have had the Honour to be concern'd: And in my private Con<g ref="char:EOLhyphen"/>cerns, to all the Tradesmen I have dealt with, who I am sure will all give me the best Words they have, and no man God willing shall ever have any Just Cause to say otherwise of me.</p>
+            <p>It was therefore a Foolish and Mali<g ref="char:EOLhyphen"/>cious Enterprize in <hi>Brown</hi> and <hi>Smith</hi> to think to advance their own <hi>Ill Designs</hi> by quarrelling with me, who am a Volunteer in this Service, and have averred nothing upon my Single Testi<g ref="char:EOLhyphen"/>mony, but what is confirmed by others; therefore if they design'd to take off my Evidence by these Clandestine Me<g ref="char:EOLhyphen"/>thods, their attempts were in vain, un<g ref="char:EOLhyphen"/>less they could remove the other Gen<g ref="char:EOLhyphen"/>tlemen also, <hi>who you see stand the Test,</hi> tho they have been often Intreated, and Threatned to do the contrary.</p>
+            <pb n="45" facs="tcp:63464:24"/>
+            <p>But the Poor <hi>Shabs</hi> are in their Trade, they must be <hi>Traducing</hi> and <hi>Slandering</hi> some Body, they care not Who! And what in the Name of Ill Luck have they gain'd by this Trial of Skill, but bruised Bones, and broken Heads, and seen themselves detected as <hi>Notorious Lyars and Slanderers in every Paragraph of their Libel.</hi> And since they Threa<g ref="char:EOLhyphen"/>ten still, and have made the Contest on<g ref="char:EOLhyphen"/>ly mine, let them know, <hi>The more they Stir the worse they'l Stink;</hi> for since I find I can write more in <hi>Three Days,</hi> than they were both (<hi>with that Shag<g ref="char:EOLhyphen"/>rag</hi> Dod<hi>'s assistance</hi>) able to produce a Reply to in <hi>Seven Weeks,</hi> (tho they promised in the <hi>Post Boy</hi> to answer it in One) they have a full Employment for their Lives; for I will never give them over while these <hi>Three Poltron's</hi> are Unhang'd, or give over their Trade of Lying and Slandering.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
